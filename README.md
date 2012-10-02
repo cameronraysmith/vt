@@ -1,1 +1,1 @@
-[Code](http://homepages.cwi.nl/~jve/software/voting/) from [Jan van Eijck](http://homepages.cwi.nl/~jve/)
+[Code](http://homepages.cwi.nl/~jve/software/voting/) from [Jan van Eijck](http://homepages.cwi.nl/~jve/). Install the [Haskell platform](http://www.haskell.org/platform/) and [leksah](http://leksah.org/) to try out the code.
